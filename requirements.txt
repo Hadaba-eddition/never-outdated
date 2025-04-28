@@ -1,0 +1,7 @@
+pandas
+openpyxl
+pyclustering
+mlxtend
+matplotlib
+seaborn
+streamlit
