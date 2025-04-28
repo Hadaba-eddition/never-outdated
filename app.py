@@ -10,7 +10,9 @@ import numpy as np
 # -------------------------------
 # تحميل وتجهيز البيانات
 # -------------------------------
-df = pd.read_excel(r"C:\Users\Abdulrahman\Desktop\mining project\StoresData.xlsx")
+df = pd.read_excel("StoresData.xlsx")
+
+
 
 # Encoding بسيط
 df_encoded = pd.DataFrame()
